@@ -11,8 +11,8 @@
 ...e outras como MySQL, JavaScript, Laravel, CI/CD
 
 ## 🚀 GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosotocampos&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelosotocampos&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk8sta13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sk8sta13&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contato  
 - ✉️ Email: soto.campos.marcelo@gmail.com  
