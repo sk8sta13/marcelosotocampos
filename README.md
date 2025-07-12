@@ -1,7 +1,7 @@
 # Olá 👋, eu sou Marcelo Campos
 
 ## 🧠 Sobre mim
-- 🔹 Desenvolvedor Backend com +15 anos de experiência com PHP
+- 🔹 Desenvolvedor Backend
 - 🌱 Atualmente me aprofundando em Go e microserviços
 
 ## 🛠 Tecnologias que uso  
@@ -11,9 +11,8 @@
 ...e outras como MySQL, JavaScript, Laravel
 
 ## 🚀 GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk8sta13&layout=compact&theme=tokyonight&hide=blade,css)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sk8sta13&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk8sta13&layout=compact&theme=tokyonight&hide=blade,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contato  
 - ✉️ Email: soto.campos.marcelo@gmail.com  
